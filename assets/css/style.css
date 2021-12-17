@@ -114,6 +114,11 @@ body {
     width: 90%
 }
 
+.owl-carousel .owl-item video {
+    width: 80%;
+    height: 80%;
+}
+
 
 /*
 .item img {
